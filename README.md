@@ -27,6 +27,7 @@ Config
 Po prvním spuštění se vytvoří config.yml:
 
 join-message: "&eHráč %player% se připojil"
+
 quit-message: "&cHráč %player% se odpojil"
 
 
@@ -48,6 +49,7 @@ Používej Minecraft color codes:
 Příklad:
 
 join-message: "&aVítej %player% na serveru!"
+
 quit-message: "&c%player% odešel."
 
 
