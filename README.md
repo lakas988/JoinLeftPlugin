@@ -68,8 +68,3 @@ joinleftplugin.reload
 
 Autor
 Lakas988
-
----
-
-Verze
-1.0
