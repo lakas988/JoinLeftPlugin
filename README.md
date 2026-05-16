@@ -9,6 +9,9 @@ Funkce
 - Placeholder %player% pro jméno hráče
 - /reloadconfig command pro reload configu bez restartu serveru
 
+Minecraft verze
+- 1.21.11
+
 ---
 
 Instalace
